@@ -16,7 +16,7 @@
     .container {
       background: #ffffff;
       width: 100%;
-      max-width: 500px;
+      max-width: 1000px;
       margin: auto;
       border-radius: 20px;
       padding: 16px;
@@ -216,5 +216,6 @@
     }
 
       
+
 
 
