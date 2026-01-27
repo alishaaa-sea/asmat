@@ -15,8 +15,8 @@
     }
     .container {
       background: #ffffff;
-      width: 90%;
-      max-width: 600vh;
+      width: 60%;
+      max-width: 100vh;
       border-radius: 20px;
       padding: 24px;
     }
@@ -215,3 +215,4 @@
     }
 
       
+
