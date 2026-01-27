@@ -16,7 +16,7 @@
     .container {
       background: #ffffff;
       width: 90%;
-      min-width: 100vh;
+      max-width: 600vh;
       border-radius: 20px;
       padding: 24px;
     }
@@ -213,4 +213,5 @@
       text-align: center;
       line-height: 1.4;
     }
+
       
