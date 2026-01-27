@@ -15,7 +15,7 @@
     }
     .container {
       background: #ffffff;
-      width: 75%;
+      width: 100%;
       max-width: 420px;
       margin: auto;
       border-radius: 20px;
@@ -29,16 +29,16 @@
       margin-bottom: 12px;
     }
     h1 {
-      font-size: clamp(18px, 4vw, 23px);
+      font-size: clamp(18px, 4vw, 20px);
       font-weight: 600;
     }
     .tagline {
-      font-size: clamp(12px, 3vw, 20px);
+      font-size: clamp(12px, 3vw, 17px);
       color: #666;
       margin: 8px 0 16px;
     }
     .info {
-      font-size: clamp(13px, 3.5vw, 20px);
+      font-size: clamp(13px, 3.5vw, 17px);
       margin-bottom: 20px;
       color: #444;
       line-height: 1.6;
@@ -74,7 +74,7 @@
       cursor: pointer;
     }
     details.box summary {
-      font-size: clamp(14px, 3.5vw, 20px);
+      font-size: clamp(14px, 3.5vw, 17px);
       font-weight: 600;
       color: #5c6cff;
       list-style: none;
@@ -92,7 +92,7 @@
     }
     details.box p, details.box li {
       margin-top: 10px;
-      font-size: clamp(13px, 3.5vw, 18px);
+      font-size: clamp(13px, 3.5vw, 17px);
       color: #444;
       line-height: 1.6;
     }
@@ -100,8 +100,8 @@
       padding-left: 18px;
     }
     .avatar {
-      width: 140px;
-      height: 140px;
+      width: 120px;
+      height: 120px;
       border-radius: 5px;
       object-fit: cover;
       border: 2px solid #5c6cff;
@@ -131,7 +131,7 @@
       color: #5c6cff;
     }
     .box p, .box li {
-      font-size: clamp(13px, 3.5vw, 18px);
+      font-size: clamp(13px, 3.5vw, 17px);
       color: #444;
       line-height: 1.6;
     }
@@ -217,6 +217,7 @@
     }
 
       
+
 
 
 
