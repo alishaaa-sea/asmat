@@ -15,10 +15,11 @@
     }
     .container {
       background: #ffffff;
-      width: 60%;
-      max-width: 100vh;
+      width: 100%;
+      max-width: 500px;
+      margin: auto;
       border-radius: 20px;
-      padding: 24px;
+      padding: 16px;
     }
     .logo {
       width: 200px;
@@ -167,16 +168,16 @@
       .bidang-grid {
         grid-template-columns: 1fr;
       }
+      .dokumentasi-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 12px;
+        margin-top: 12px;
     }
-    .dokumentasi-grid {
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      gap: 12px;
-      margin-top: 12px;
     }
 
     .dokumentasi-grid img {
-      width: 50%;
+      width: 100%;
       height: auto;
       object-fit: contain;
       border-radius: 5px;
@@ -215,4 +216,5 @@
     }
 
       
+
 
