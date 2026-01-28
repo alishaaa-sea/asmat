@@ -61,6 +61,7 @@
       margin-top: 10px;
       font-size: 15px;
       color: #aaa;
+      max-width: 50px;
     }
 
     .box {
@@ -216,6 +217,7 @@
     }
 
       
+
 
 
 
